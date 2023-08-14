@@ -8,26 +8,24 @@
 **💼 Currently working as:** Software Engineer at <a href="https://sysbeams.com/" target="_blank"><b>Sysbeams</b></a>.
 🦸 Career Aim - Work for a cool Product company! 
 
-> A goal-oriented .NET software engineer with expertise in developing and managing large and robust 
-software solutions using C#, ASP.NET, React, HTML, CSS, JavaScript and Agile/Scrum methodologies. I have a proven track record of delivering 
-robust, scalable and high-quality software solutions. 
->
-> I have a track record of building and deploying software that meets customer demands, and I'm an award-winning developer for my 
-valuable contribution towards solving African problems. Let me help you 
-bring your software ideas to life!
+> 
+About Me 👨‍💼
+I am a FullStack Software Developer  vast with ample practical experience around observation of best practices, in development, maintenance, and provision of software solutions that suites varieties of businesses demands. I am passionately motivated to ensure standard, accuracy during troubleshooting, maintenance, management and research. As a Software Developer, I write clean codes by following the best software engineering principles, and methodologies including SDLC, Agile methodology, and a host of numerous others. Other skills include but not limited to: Git, GitHub, GitBook, Database, Asp .Net MVC, Web API, as well as vast knowledge in HTML, CSS, Javascript, and other technologies.
+> and basic knowledge of Microsoft Dynamics 365. My objectives are to pursue a professional career in a dynamic, challenging environment and to be among the best in any organization, discharging my duties with full dedication.
+
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalamBhai&layout=compact&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
-<img src="https://github-readme-stats.vercel.app/api?username=SalamBhai&show_icons=true&theme=tokyonight&count_private=true" alt="YusuffAhmad" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=SalamBhai&show_icons=true&theme=tokyonight&count_private=true" alt="Saula Sheriffdeen" height="160" />
 </p>
 
 <p align="center">
-## 💻 Personal Projects Contributions
+  <strong> Personal Projects Contributions </strong>
 
 I always make sure that I find enough time for developing beneficial software solutions and contributing to software projects also helps me expand my knowledge and skill sets and work with other developers and team globally.
 
-- 🛡️ [Password Hashing And Encryption Nuget Library](https://github.com/SalamBhai/AtHackers): AtHackers is a cutting-edge security hashing library that empowers developers with robust password hashing capabilities. Safeguard your users' credentials with ease using our library's advanced features and industry-standard algorithms..
-- 📘 [The LogoPhilia: ](https://github.com/SalamBhai/LogoPhilia): A web-based application that integrates *Merriam Webster and Oxford Dictionary's API* and integrates easy text-to-speech access to dictionary and fluent learning of the English Language for the visually impaired.
+- 🛡️ *[Password Hashing And Encryption Nuget Library](https://github.com/SalamBhai/AtHackers)*: AtHackers is a cutting-edge security hashing library that empowers developers with robust password hashing capabilities. Safeguard your users' credentials with ease using our library's advanced features and industry-standard algorithms..
+- 📘 *[The LogoPhilia: ](https://github.com/SalamBhai/LogoPhilia)*: A web-based application that integrates *Merriam Webster and Oxford Dictionary's API* and integrates easy text-to-speech access to dictionary and fluent learning of the English Language for the visually impaired.
 
 </p>
 
@@ -54,7 +52,7 @@ I always make sure that I find enough time for developing beneficial software so
 
 <p align="center"> 
  <strong>
-  Professional skills
+ 🧰 Professional skills
   </strong>
 </p>
 
@@ -85,7 +83,7 @@ I always make sure that I find enough time for developing beneficial software so
     <img src="https://www.vectorlogo.zone/logos/nuget/nuget-ar21.svg" alt="Nuget" style="vertical-align:top; margin:4px">
   </a>
    <a href="https://www.nuget.org/packages/AtHackers">
-    <img src="https://github.com/SalamBhai/AtHackers/blob/master/assets/AtHackers.png" alt="AtHacker" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/SalamBhai/AtHackers/blob/master/assets/AtHackers.png" alt="AtHacker" style="vertical-align:top; margin:4px; width:"100"; height:"100"">
   </a>
   <a href="https://www.github.com">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
