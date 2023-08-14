@@ -2,7 +2,7 @@
     <img src="assets/header.png" alt="SBDT" height="500" width="500">
 </p>
                   
-<h1 align="center">  I'm Saula Sheriffdeen O.</h1>
+<h1 align="center"> Hi  I'm Saula Sheriffdeen O.</h1>
 <h3 align="center"> 👨‍💻 Full Stack Software Engineer</h3>
 
 **💼 Currently working as:** Software Engineer at <a href="https://sysbeams.com/" target="_blank"><b>Sysbeams</b></a>.
@@ -26,8 +26,8 @@ bring your software ideas to life!
 
 I always make sure that I find enough time for developing beneficial software solutions and contributing to software projects also helps me expand my knowledge and skill sets and work with other developers and team globally.
 
-- 💥 [Password Hashing And Encryption Nuget Library](https://github.com/SalamBhai/AtHackers): AtHackers is a cutting-edge security hashing library that empowers developers with robust password hashing capabilities. Safeguard your users' credentials with ease using our library's advanced features and industry-standard algorithms..
-- 🛒 [The LogoPhilia: ](https://github.com/SalamBhai/LogoPhilia): A web-based application that i
+- 🛡️ [Password Hashing And Encryption Nuget Library](https://github.com/SalamBhai/AtHackers): AtHackers is a cutting-edge security hashing library that empowers developers with robust password hashing capabilities. Safeguard your users' credentials with ease using our library's advanced features and industry-standard algorithms..
+- 📘 [The LogoPhilia: ](https://github.com/SalamBhai/LogoPhilia): A web-based application that integrates *Merriam Webster and Oxford Dictionary's API* and integrates easy text-to-speech access to dictionary and fluent learning of the English Language for the visually impaired.
 
 </p>
 
