@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="assets/header.png" alt="SBDT">
+    <img src="assets/header.png" alt="SBDT" height="100">
 </p>
                   
 <h1 align="center">Hi 👋, I'm Saula Sheriffdeen O.</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 **💼 Currently working as:** Software Engineer at <a href="https://sysbeams.com/" target="_blank"><b>Sysbeams</b></a>.
 🦸 Career Aim - Work for a cool Product company! 
