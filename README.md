@@ -26,10 +26,8 @@ bring your software ideas to life!
 
 I always make sure that I find enough time for developing beneficial software solutions and contributing to software projects also helps me expand my knowledge and skill sets and work with other developers and team globally.
 
-- 💥 [Payroll Application](https://github.com/YusuffAhmad/PayRollManagmentSystem): A .NET application that incorporates the Nigeria Employee Taxing System.
-- 🛒 [Private Eye Security Software: ](https://github.com/YusuffAhmad/PrivateEye): A web-based application that identifies individuals with criminal records and alerts the relevant authorities
-using advanced technology of Bio-metrics and maintained reports on how biometrics has become an emerging tech. for recognizing individuals using their biological traits. Gathered information such as face recognition
-- 🥇 and tons of other repositories are are there in the private mode.
+- 💥 [Password Hashing And Encryption Nuget Library](https://github.com/SalamBhai/AtHackers): AtHackers is a cutting-edge security hashing library that empowers developers with robust password hashing capabilities. Safeguard your users' credentials with ease using our library's advanced features and industry-standard algorithms..
+- 🛒 [The LogoPhilia: ](https://github.com/SalamBhai/LogoPhilia): A web-based application that i
 
 </p>
 
@@ -37,8 +35,8 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
 
 <h3 align="center"> 👨🏻‍💻 Social Media: </h4>
 <p align="center"> 
- <a href="https://web.twitter.com/bhai_tweet" alt="Ahmad's twitter">
-   <img src="https://img.shields.io/badge/-@SaulaSheriffdeen%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ <a href="https://web.twitter.com/bhai_tweet" alt="Sheriffdeen's twitter">
+   <img src="https://img.shields.io/badge/-@SaulaSheriffdeen-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
  <a href="https://github.com/SalamBhai" alt="Saula Sheriffdeen">
    <img src="https://img.shields.io/badge/-@SaulaSheriffdeen-%23181717?style=flat-square&logo=github" />
