@@ -1,5 +1,7 @@
-   
-                   <img src=" ![](assets/header.png)" alt="SBDT" align="center">
+<p align="center">
+    <img src="assets/header.png" alt="SBDT">
+</p>
+                  
 <h1 align="center">Hi 👋, I'm Saula Sheriffdeen O.</h1>
 <h3 align="center">Software Engineer</h3>
 
