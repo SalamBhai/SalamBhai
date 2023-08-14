@@ -2,8 +2,8 @@
     <img src="assets/header.png" alt="SBDT" height="500" width="500">
 </p>
                   
-<h1 align="center">👨‍💻Hi 👋, I'm Saula Sheriffdeen O.</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h1 align="center">  I'm Saula Sheriffdeen O.</h1>
+<h3 align="center"> 👨‍💻 Full Stack Software Engineer</h3>
 
 **💼 Currently working as:** Software Engineer at <a href="https://sysbeams.com/" target="_blank"><b>Sysbeams</b></a>.
 🦸 Career Aim - Work for a cool Product company! 
@@ -17,12 +17,12 @@ valuable contribution towards solving African problems. Let me help you
 bring your software ideas to life!
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusuffAhmad&layout=compact&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
-<img src="https://github-readme-stats.vercel.app/api?username=YusuffAhmad&show_icons=true&theme=tokyonight&count_private=true" alt="YusuffAhmad" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalamBhai&layout=compact&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=SalamBhai&show_icons=true&theme=tokyonight&count_private=true" alt="YusuffAhmad" height="160" />
 </p>
 
 <p align="center">
-#### 💻 Personal Projects Contributions
+## 💻 Personal Projects Contributions
 
 I always make sure that I find enough time for developing beneficial software solutions and contributing to software projects also helps me expand my knowledge and skill sets and work with other developers and team globally.
 
@@ -77,8 +77,14 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
    <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.openshift.com">
-    <img src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg" alt="openshift" style="vertical-align:top; margin:4px">
+   <a href="https://wordpress.com">
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="WordPress" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://www.nuget.org">
+    <img src="https://www.vectorlogo.zone/logos/nuget/nuget-ar21.svg" alt="Nuget" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://www.nuget.org/packages/AtHackers">
+    <img src="https://github.com/SalamBhai/AtHackers/blob/master/assets/AtHackers.png" alt="AtHacker" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.github.com">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
@@ -89,8 +95,11 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
    <a href="https://www.gitbook.com">
     <img src="https://www.vectorlogo.zone/logos/gitbook/gitbook-ar21.svg" alt="gitbook" style="vertical-align:top; margin:4px">
   </a>
+   <a href="https://www.gitbook.com">
+    <img src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg" alt="paypal" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 <p align="center">
-<img src="[![GitHub Streak](https://streak-stats.demolab.com?user=SalamBhai&theme=dark)](https://git.io/streak-stats)" />
+<img src="https://streak-stats.demolab.com?user=SalamBhai&theme=dark" />
 </p>
