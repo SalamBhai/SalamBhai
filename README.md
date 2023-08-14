@@ -47,7 +47,7 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
    <img src="https://img.shields.io/badge/-YusuffAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuff-ahmad-o-a27233238/" />
  </a>
  <a>
-   <img src="https://komarev.com/ghpvc/?username=YusuffAhmad&color=ff69b4&style=flat-square" />
+   <img src="https://komarev.com/ghpvc/?username=SalamBhai&color=ff69b4&style=flat-square" />
  </a>
 </p>
 
@@ -87,7 +87,7 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
    <a href="https://www.gitbook.com">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/gitbook/gitbook-ar21.svg" alt="gitbook" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
