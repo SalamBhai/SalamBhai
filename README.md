@@ -2,7 +2,7 @@
     <img src="assets/header.png" alt="SBDT" height="500" width="500">
 </p>
                   
-<h1 align="center">Hi 👋, I'm Saula Sheriffdeen O.</h1>
+<h1 align="center">👨‍💻Hi 👋, I'm Saula Sheriffdeen O.</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
 **💼 Currently working as:** Software Engineer at <a href="https://sysbeams.com/" target="_blank"><b>Sysbeams</b></a>.
@@ -70,12 +70,7 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://angular.io">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a>  
+ 
   <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
@@ -91,8 +86,11 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
   <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
+   <a href="https://www.gitbook.com">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YusuffAhmad&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
+<img src="[![GitHub Streak](https://streak-stats.demolab.com?user=SalamBhai&theme=dark)](https://git.io/streak-stats)" />
 </p>
