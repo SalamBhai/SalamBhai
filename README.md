@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/header.png" alt="SBDT" height="100">
+    <img src="assets/header.png" alt="SBDT" height="300" width="600">
 </p>
                   
 <h1 align="center">Hi 👋, I'm Saula Sheriffdeen O.</h1>
