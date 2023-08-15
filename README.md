@@ -6,12 +6,14 @@
 <h3 align="center"> 👨‍💻 Full Stack Software Engineer</h3>
 
 **💼 Currently working as:** Software Engineer at <a href="https://sysbeams.com/" target="_blank"><b>Sysbeams</b></a>.
-🦸 Career Aim - Work for a cool Product company! 
 
+
+> About Me 👨‍💼
 > 
-About Me 👨‍💼
-I am a FullStack Software Developer  vast with ample practical experience around observation of best practices, in development, maintenance, and provision of software solutions that suites varieties of businesses demands. I am passionately motivated to ensure standard, accuracy during troubleshooting, maintenance, management and research. As a Software Developer, I write clean codes by following the best software engineering principles, and methodologies including SDLC, Agile methodology, and a host of numerous others. Other skills include but not limited to: Git, GitHub, GitBook, Database, Asp .Net MVC, Web API, as well as vast knowledge in HTML, CSS, Javascript, and other technologies.
-> and basic knowledge of Microsoft Dynamics 365. My objectives are to pursue a professional career in a dynamic, challenging environment and to be among the best in any organization, discharging my duties with full dedication.
+> I am a FullStack Software Developer  vast with ample practical experience around observation of best practices, in development, maintenance, and provision of software solutions that suites varieties of businesses demands. I am passionately motivated to ensure standard, accuracy during troubleshooting, maintenance, management and research. As a Software Developer,
+>
+> I write clean codes by following the best software engineering principles, and methodologies including SDLC, Agile methodology, and a host of numerous others. Other skills include but not limited to: Git, GitHub, GitBook, Database, Asp .Net MVC, Web API, as well as vast knowledge in HTML, CSS, Javascript, and other technologies.
+ and basic knowledge of Microsoft Dynamics 365. My objectives are to pursue a professional career in a dynamic, challenging environment and to be among the best in any organization, discharging my duties with full dedication.
 
 
 <p align="left">
